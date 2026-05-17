@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Drafts locaux
+.drafts/
+*.draft.md
+NOTES.local.md
+
+# Claude Code local state
+.claude/
+
+# Fichiers locaux destinés à Claude, ne jamais push
+VOICE.md
+CLAUDE.md
+
+# Misc
+*.log

@@ -1,2 +1,13 @@
 # how-to-control-AI
-A big documentation explain how to control AI, from the basics to complexe logic
+
+Une documentation pour comprendre et utiliser l'IA en 2026, des fondamentaux aux architectures multi-agents.
+
+Le projet en est à son démarrage. Le sommaire et les chapitres seront ajoutés au fur et à mesure.
+
+## Contribuer
+
+Voir [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Licence
+
+[MIT](LICENSE).
